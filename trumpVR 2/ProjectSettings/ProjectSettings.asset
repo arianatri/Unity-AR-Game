@@ -604,11 +604,13 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
+    UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 4fc80b49-92e0-4152-aea8-8b33ac0859f0
+  projectName: trumpVR
+  organizationId: adhan_432
   cloudEnabled: 0
   enableNewInputSystem: 0
